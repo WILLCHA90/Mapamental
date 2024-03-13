@@ -4,5 +4,3 @@
 
  //
  ![alt text](<Captura de pantalla 2024-03-12 211248.png>)
-
- Que opinan
