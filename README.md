@@ -3,4 +3,4 @@
  como usar una pagina web
 
  //
- ![alt text](<Captura de pantalla 2024-03-12 211248-1.png>)
+ ![alt text](<Captura de pantalla 2024-03-12 211248.png>)
